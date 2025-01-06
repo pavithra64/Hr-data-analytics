@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @pavithra64
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on classification
-- 📫 How to reach me pavithra64
+# HR Data Analytics Project
 
+Description:
 
-<!---
-pavithra64/pavithra64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project focuses on analyzing HR data to provide actionable insights into workforce trends, employee performance, retention, and organizational efficiency. It uses data visualization and machine learning techniques to uncover patterns that can guide HR strategies.
+
+Dataset Description:
+Source: Kaggle/Custom Dataset.
+
+Key Features:
+EmployeeID: Unique identifier for employees.
+Department: Department of the employee.
+JobRole: The role of the employee.
+PerformanceRating: Annual performance rating.
+Attrition: Whether the employee left (Yes/No).
+SalaryHike: Percentage increase in salary.
+WorkLifeBalance: Rating of work-life balance.
+YearsAtCompany: Duration of employment.
+
